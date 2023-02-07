@@ -1,7 +1,7 @@
 site_name: MkDocs中文文档
-site_url: https://mkdocs.zimoapps.com
+site_url: https://mkdocs-docs-zh.hellowac.io
 site_description: 非官方的MkDocs中文文档。
-site_author: zimo
+site_author: hellowac
 
 repo_url: https://github.com/zimocode/mkdocs-docs-zh/
 edit_uri: ""
